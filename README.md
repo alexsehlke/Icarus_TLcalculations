@@ -27,22 +27,22 @@ We also provide a Jupyter Notebook, 'Thermoluminescence_Calculations.ipynb', whi
 ## Output
 All scripts output:
 
-An image file representing the calculated TL data.
-A CSV file containing the accompanying data, stored in the calculations subfolder.
+* An image file representing the calculated TL data.
+* A CSV file containing the accompanying data, stored in the calculations subfolder.
 
 ## Installation and Dependencies
 To run these scripts, ensure you have Python installed along with the required dependencies. You can install the necessary packages using:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
-##Contribution
+## Contribution
 We welcome contributions to improve and expand the functionality of these tools. Please feel free to fork the repository and submit pull requests.
 
-##License
+## License
 This project is licensed under the MIT License.
 
-##Contact
+## Contact
 For any questions or further information, please contact us at alexander.sehke@nasa.gov.
 
