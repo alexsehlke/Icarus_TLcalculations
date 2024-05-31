@@ -13,7 +13,7 @@ Usage
 python TL_2ndOrderKineticsPeak.py
 ```
 
-2. TL_EquilibrationTime.py
+### 2. TL_EquilibrationTime.py
 This script calculates the build-up of TL over time based on selected kinetic parameters.
 
 Usage:
