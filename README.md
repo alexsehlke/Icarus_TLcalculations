@@ -50,7 +50,7 @@ pip install -r requirements.txt
 We welcome contributions to improve and expand the functionality of these tools. Please feel free to fork the repository and submit pull requests.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Creative Commons Attribution 4.0 (CC-BY-4.0).
 
 ## Contact
 For any questions or further information, please contact us at alexander.sehke@nasa.gov.
