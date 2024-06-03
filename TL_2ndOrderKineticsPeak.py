@@ -1,17 +1,19 @@
 import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.integrate import quad
 
 ## INSTRUCTIONS ##
-## Adjust input parameters at the end of script under 'Input parameters'
+## Adjustc'Input parameters' below as desired
 
 # Input parameters
-E_eV = 1.15    # Activation energy in eV
-N = 1E5    # Total concentration of traps
-n0 = N*(1/5)  # Initial concentration of electrons in traps
-s = 5E8   # Frequency factor
-beta = 7.5    # Heating rate
+E_eV = 1.15         # Activation energy in eV
+s = 5E8             # Frequency factor
+N = 1E5             # Total concentration of traps
+n0 = N*(1/5)        # Initial concentration of electrons in traps
+beta = 7.5          # Heating rate
 
+# Temperature parameters for the calculation. No adjustment needed.
 T0 = 1    # Starting temperature for the measurement
 T_max = 1000  # Maximum temperature for the measurement
 
