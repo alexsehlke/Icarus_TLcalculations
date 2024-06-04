@@ -15,7 +15,7 @@ python TL_2ndOrderKineticsPeak.py
 
 The figure below shows the an example output using an E value of 1.00 eV and s of 1E9 s-1. The calculations are also saved in a seperate .csv file for each calculation.
 
-![Example 1](readme_files/SO_PeakCalc_E1.00eV_s1.0e+09s-1_Tp565.8K.png)
+<img src="readme_files/SO_PeakCalc_E1.00eV_s1.0e+09s-1_Tp565.8K.png" width="60%" height="100%">
 
 ### 2. TL_EquilibrationTime.py
 This script calculates the build-up of TL over time based on selected kinetic parameters.
@@ -27,8 +27,8 @@ python TL_EquilibrationTime.py
 
 The figure below shows the calculation depending on the parameters used. In this case, the plateau indicates that electrons traps become fully saturated at around 200 Million years.
 
-![Example 2](readme_files/Trapped_Electrons_T_80K_E_0.55eV_s_1.0e+15.png)
 
+<img src="readme_files/Trapped_Electrons_T_80K_E_0.55eV_s_1.0e+15.png" width="60%" height="100%">
 
 ## Jupyter Notebook
 We also provide a Jupyter Notebook, 'Thermoluminescence_Calculations.ipynb', which includes additional background documentation.
